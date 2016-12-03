@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="DateView">
+        <attr name="delimiter" format="string" />
+        <attr name="fancyText" format="boolean" />
+        <attr name="newTextColor" format="color" />
+        <attr name="drawableLeftPadding" format="reference" />
+
+    </declare-styleable>
+
+    <declare-styleable name="MyEditText">
+        <attr name="charMinimumLimit" format="integer" />
+        <attr name="charMaximumLimit" format="integer" />
+        <attr name="charTextColor" format="color"/>
+        <attr name="chardrawableLeftPadding" format="reference" />
+
+    </declare-styleable>
+</resources>
